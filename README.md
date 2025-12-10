@@ -1,6 +1,6 @@
 # Sentio.
 
-![Sentio Cover](/readme-cover.png)
+![Sentio Cover](public/readme-cover.png)
 
 **Sentio** is a modern productivity application designed to help you master your habits, manage tasks efficiently, and track your well-being. Built with a focus on aesthetics and user experience, Sentio brings your productivity tools into one cohesive, beautiful interface.
 
